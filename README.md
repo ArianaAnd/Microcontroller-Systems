@@ -4,3 +4,13 @@ Implement a pressure monitoring module in an enclosure. For this, the MPX4115 pr
 Resulting sketch:
 
 ![Image of Thinkercad](https://github.com/ArianaAnd/Microcontroller-Systems/blob/master/ThinkercadSketch.png)
+
+![Image of Thinkercad](https://github.com/ArianaAnd/Microcontroller-Systems/blob/master/ADC%20Prescaler%20Selections.png)
+
+![Image of Thinkercad](https://github.com/ArianaAnd/Microcontroller-Systems/blob/master/ADCSRA.png)
+
+![Image of Thinkercad](https://github.com/ArianaAnd/Microcontroller-Systems/blob/master/ADMUX.png)
+
+![Image of Thinkercad](https://github.com/ArianaAnd/Microcontroller-Systems/blob/master/Input%20channel%20selections.png)
+
+![Image of Thinkercad](https://github.com/ArianaAnd/Microcontroller-Systems/blob/master/atmega328.png)
